@@ -3,23 +3,52 @@ import PastEventCard from "@/components/PastEventCard";
 import { Separator } from "@/components/ui/separator";
 
 const upcomingEvents = [
-  {
-    id: "founder-next-door",
-    title: "FOUNDER NEXT DOOR",
-    description: `Alright, y'all. Founder Next Door is here!!!! ✨
+{
+  id: "founder-next-door",
+  title: "THE FOUNDER NEXT DOOR",
+description: `Startups, but make it simple.
 
-If you've ever said 'I wanna start something' or you're just 
-unhinged enough to try...
-this is literally your chance. 💯
+The Founder Next Door is an 8-week, hands-on startup program for anyone who wants to start something but doesn’t know where to begin. No perfect ideas. No pressure. Just learning by doing.
 
-Wanna know what the program's all about? 👀`,
-    linkText: "Check it out here",
-    linkUrl: "https://sturdy-tarn-d7e.notion.site/The-Founder-Next-door-275cb1b52b69809c9b8df2ea8f55f6d9",
-    registerText: "",
-    registerUrl: "",
-    footer: "Come as you are; leave as a founder.",
-    imageUrl: "/founder-next-door-2.jpeg",
-  },
+WHAT YOU’LL DO
+• Identify real problems worth solving
+• Talk to users and validate ideas
+• Build a scrappy MVP
+• Learn startup fundamentals that matter
+• Get early users and feedback
+
+WHO IT’S FOR
+• First-time founders and curious students
+• Designers, marketers, and non-coders
+
+The program ends with Demo Day at CITTIC, where you pitch your first startup.`,
+  linkText: "Check it out here",
+  linkUrl:
+    "https://sturdy-tarn-d7e.notion.site/The-Founder-Next-door-275cb1b52b69809c9b8df2ea8f55f6d9",
+  registerText: "",
+  registerUrl: "",
+  footer: "8 weeks. One idea. Real execution. Demo Day at CITTIC.",
+  imageUrl: "/founder-next-door-2.jpeg",
+}
+
+//,  
+//   {
+//     id: "founder-next-door",
+//     title: "FOUNDER NEXT DOOR",
+//     description: `Alright, y'all. Founder Next Door is here!!!! ✨
+
+// If you've ever said 'I wanna start something' or you're just 
+// unhinged enough to try...
+// this is literally your chance. 💯
+
+// Wanna know what the program's all about? 👀`,
+//     linkText: "Check it out here",
+//     linkUrl: "https://sturdy-tarn-d7e.notion.site/The-Founder-Next-door-275cb1b52b69809c9b8df2ea8f55f6d9",
+//     registerText: "",
+//     registerUrl: "",
+//     footer: "Come as you are; leave as a founder.",
+//     imageUrl: "/founder-next-door-2.jpeg",
+//   },
 ];
 
 const pastEvents = [
