@@ -1,0 +1,17 @@
+From 3e7f0cd9d3b996dcc77385f358132872046e96d9 Mon Sep 17 00:00:00 2001
+From: Abinash Singh <abinashlalotra@gmail.com>
+Date: Wed, 10 Dec 2025 03:16:33 +0530
+Subject: [PATCH] Google consople verifcation 2
+
+---
+ google3893c56c0a2fb91e.html => public/google3893c56c0a2fb91e.html | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename google3893c56c0a2fb91e.html => public/google3893c56c0a2fb91e.html (100%)
+
+diff --git a/google3893c56c0a2fb91e.html b/public/google3893c56c0a2fb91e.html
+similarity index 100%
+rename from google3893c56c0a2fb91e.html
+rename to public/google3893c56c0a2fb91e.html
+-- 
+2.43.0
+
